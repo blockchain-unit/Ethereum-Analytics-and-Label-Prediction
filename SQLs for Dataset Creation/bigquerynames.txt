@@ -1,0 +1,15 @@
+`ethereum-262008.ethclasses.bitcoinsov`
+`ethereum-262008.ethclasses.bithumb`
+`ethereum-262008.ethclasses.compromised`
+`ethereum-262008.ethclasses.exchange`
+`ethereum-262008.ethclasses.gambling`
+`ethereum-262008.ethclasses.heist`
+`ethereum-262008.ethclasses.loans`
+`ethereum-262008.ethclasses.maker`
+`ethereum-262008.ethclasses.mining`
+`ethereum-262008.ethclasses.phish_hack`
+`ethereum-262008.ethclasses.trading`
+`ethereum-262008.ethclasses.ponzi`
+`ethereum-262008.ethclasses.uniswap`
+`ethereum-262008.ethclasses.upbithack`
+`ethereum-262008.ethclasses.walletapp`

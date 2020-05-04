@@ -1,0 +1,7 @@
+to_address:STRING,
+indegree:FLOAT,
+sum_inether:FLOAT,
+avg_inether:FLOAT,
+inether_max:FLOAT,
+inether_min:FLOAT,
+std_inether:FLOAT
