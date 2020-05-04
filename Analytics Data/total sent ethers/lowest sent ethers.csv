@@ -1,0 +1,6 @@
+Class,Address,Entity,Lowest Value Sent ETH,Lowest Value Sent USD
+dex,0xc22d5b2951db72b44cfb8089bb8cd374a3c354ea,OpenRelay,1,$215.00000
+exchange,0x120a270bbc009644e35f0bb6ab13f95b8199c4ad,ShapeShift 1,1.00E-09,$0.00000
+icowallets,0x15c19e6c203e2c34d1edfb26626bfc4f65ef96f0,Aeternity: Wallet,1.34E-05,$0.00287
+mining,0x2a65aca4d5fc5b5c859090a6c34d164135398226,DwarfPool 1,1.00E-08,$0.00000
+walletapp,0x4fed1fc4144c223ae3c1553be203cdfcbd38c581,Cryptonator,0,$0.00000
