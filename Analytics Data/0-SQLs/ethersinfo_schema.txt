@@ -1,0 +1,6 @@
+from_address:STRING,
+outether_total:FLOAT,
+outether_avg:FLOAT,
+outether_std:FLOAT,
+outether_max:FLOAT,
+outether_min:FLOAT
