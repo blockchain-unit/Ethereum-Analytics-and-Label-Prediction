@@ -1,0 +1,9 @@
+from_address:STRING,
+nonce:INTEGER,
+to_address:STRING,
+gas:INTEGER,
+gas_price:FLOAT,
+value:FLOAT,
+block_number:INTEGER,
+block_timestamp:TIMESTAMP,
+label:STRING

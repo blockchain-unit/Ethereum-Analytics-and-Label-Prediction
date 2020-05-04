@@ -1,0 +1,15 @@
+DELETE FROM `ethereum-262008.ethupdated.dex` WHERE TRUE
+DELETE FROM `ethereum-262008.ethupdated.dex2` WHERE TRUE
+
+DELETE FROM `ethereum-262008.ethupdated.exchange` WHERE TRUE
+DELETE FROM `ethereum-262008.ethupdated.exchange2` WHERE TRUE
+DELETE FROM `ethereum-262008.ethupdated.exchange3` WHERE TRUE
+DELETE FROM `ethereum-262008.ethupdated.exchange4` WHERE TRUE
+
+DELETE FROM `ethereum-262008.ethupdated.icowallets` WHERE TRUE
+DELETE FROM `ethereum-262008.ethupdated.walletapp` WHERE TRUE
+
+DELETE FROM `ethereum-262008.ethupdated.mining` WHERE TRUE
+
+DELETE FROM `ethereum-262008.ethersinfo.dex` WHERE TRUE
+	
